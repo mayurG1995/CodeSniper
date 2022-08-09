@@ -34,7 +34,7 @@ void square (int no1)
 	
 }
 
-int main()
+int main() //entry point function
 {
 	add(4,5);
 	add(10,9);
