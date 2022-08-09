@@ -3,6 +3,7 @@
 
 int add(int no1,int no2)
 {
+	//this function will return addition of two numbers
 	int ans;
 	ans=no1+no2;
 	printf("addition of two numbers is %d\n",ans);
@@ -45,6 +46,5 @@ int main()
 	printf("%f\n",sqrt(9));
 	printf("%d\n",add(9,4));
 	
-
 	return 0;
 }
