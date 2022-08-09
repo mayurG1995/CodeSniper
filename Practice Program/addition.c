@@ -46,5 +46,6 @@ int main() //entry point function
 	printf("%f\n",sqrt(9));
 	printf("%d\n",add(9,4));
 	
-	return 0;
+	return 0;//return 0 on success
+	
 }
